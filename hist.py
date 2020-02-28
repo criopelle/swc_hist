@@ -15,3 +15,4 @@ print("std dev", np.std(x))
 
 plt.hist(x)
 plt.show()
+# my comment
